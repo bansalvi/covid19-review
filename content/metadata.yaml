@@ -578,7 +578,7 @@ authors:
       confirmed: yes
     coi:
       string: "None"
-      lastapproved: !!str 2020-05-26
+      lastapproved: !!str 2020-11-11
   -
     github: scapone01
     name: Stephen Capone
